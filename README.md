@@ -1,7 +1,7 @@
 ![mooner's github stats](https://github-readme-stats.vercel.app/api?username=mooner1022&count_private=true&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=css&exclude_repo=jscode,CCD&username=mooner1022&langs_count=8&layout=compact&theme=vue)
-####  🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
+####  ❤ I’m in love with ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
 
 ## Skills
 
@@ -20,6 +20,7 @@
 
 ![node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![express](https://img.shields.io/badge/-express-339933?style=for-the-badge&logoColor=fff)
+![Ktor](https://img.shields.io/badge/-Ktor-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
 
 ### Mobile
 
