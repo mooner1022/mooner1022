@@ -1,7 +1,18 @@
-![mooner's github stats](https://github-readme-stats.vercel.app/api?username=mooner1022&count_private=true&show_icons=true&theme=vue)
+<h2 align="center">Hello, World! 🐳</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=css&exclude_repo=jscode,CCD&username=mooner1022&langs_count=8&layout=compact&theme=vue)
-####  ❤ I’m in love with ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
+<p align="center">
+  <a href="https://github.com/mooner1022">
+    <img src="https://github-readme-stats.vercel.app/api?username=mooner1022&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=nord"/>
+  </a>
+  </br>
+  <a href="https://github.com/mooner1022?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=css&exclude_repo=jscode,CCD&username=mooner1022&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=nord"/>
+  </a>
+  </br>
+  <h3 align="center">
+    ❤ I’m in love with <img src="https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff"/>, 💻 Mostly developing <a href="https://github.com/mooner1022/StarLight"><img src="https://img.shields.io/badge/-🌟StarLight-706EB9?style=for-the-badge"></a>
+  </h3>
+</p>
 
 ## Skills
 
