@@ -1,17 +1,20 @@
 <h2 align="center">Hello, World! 🐳</h2>
 
+<h4 align='center'>
+  Student developer, learning Kotlin
+</h4>
+
 <p align="center">
-  <a href="https://github.com/mooner1022">
-    <img src="https://github-readme-stats.vercel.app/api?username=mooner1022&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=nord"/>
-  </a>
-  </br>
   <a href="https://github.com/mooner1022?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=css&exclude_repo=jscode,CCD&username=mooner1022&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=nord"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mooner1022&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
   </a>
   </br>
-  <h3 align="center">
-    ❤ I’m in love with <img src="https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff"/>, 💻 Mostly developing <a href="https://github.com/mooner1022/StarLight"><img src="https://img.shields.io/badge/-🌟StarLight-706EB9?style=for-the-badge"></a>
-  </h3>
+  <a href="https://github.com/mooner1022">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooner1022&count_private=true&show_icons=true&hide_border=true&theme=vue-dark"/>
+  </a>
+  <a href="https://github.com/mooner1022?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=css&exclude_repo=jscode,CCD&username=mooner1022&langs_count=8&layout=compact&hide_border=true&theme=vue-dark"/>
+  </a>
 </p>
 
 ## Skills
