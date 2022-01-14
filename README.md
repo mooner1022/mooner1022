@@ -9,8 +9,12 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mooner1022&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
   </a>
   </br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooner1022&count_private=true&show_icons=true&hide_border=true&theme=vue-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=css&exclude_repo=jscode,CCD&username=mooner1022&langs_count=8&layout=compact&hide_border=true&theme=vue-dark"/>
+  <a href="https://github.com/mooner1022">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooner1022&count_private=true&show_icons=true&hide_border=true&theme=vue-dark"/>
+  </a>
+  <a href="https://github.com/mooner1022?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=CCD&username=mooner1022&layout=compact&hide_border=true&theme=vue-dark"/>
+  </a>
 </p>
 
 ## Skills
