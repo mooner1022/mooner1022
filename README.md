@@ -27,8 +27,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
-![Dart](https://img.shields.io/badge/-Dart-0175c2?style=for-the-badge&logo=Dart&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-Flutter-02569b?style=for-the-badge&logo=Flutter&logoColor=fff)
 
 ### Backend
 
