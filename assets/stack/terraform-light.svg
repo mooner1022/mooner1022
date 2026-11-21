@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 134 30" width="134" height="30" role="img" aria-label="Terraform">
+  <title>Terraform</title>
+  <rect x=".5" y=".5" width="133" height="29" rx="8" fill="#f1f1ec" stroke="#151515" stroke-opacity="0.12"/>
+  <path transform="translate(11 7.5) scale(0.625)" fill="#844FBA" fill-rule="evenodd" d="M1.44 0v7.575l6.561 3.79V3.787zm21.12 4.227l-6.561 3.791v7.574l6.56-3.787zM8.72 4.23v7.575l6.561 3.787V8.018zm0 8.405v7.575L15.28 24v-7.578z"/>
+  <text x="34" y="19.4" fill="#151515" font-size="12.5" font-weight="600" letter-spacing="-.01em" style="font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Roboto, 'Helvetica Neue', Arial, sans-serif">Terraform</text>
+</svg>
